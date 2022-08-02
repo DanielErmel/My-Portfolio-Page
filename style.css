@@ -67,10 +67,10 @@ a {
   font-size: 20px;
 }
 
-a:link {color: #337357;}
-a:visited {color: purple;}
+a:link {color: #232ed1;}
+a:visited {color: #101d42;}
 a:hover {color: #704;}
-a:active {color: pink;}
+a:active {color: red;}
 
 .center{
   text-align: center;
