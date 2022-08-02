@@ -13,10 +13,10 @@ img {
   margin-right: auto;
 }
 
-<!-- old hex code for background 643a71 -->
+
 
 header, footer{
-  background-color: #e5d3b3;
+  background-color: #643a71;
   width: 100%;
 }
 
@@ -31,8 +31,10 @@ footer{
   padding-bottom: 12px
 }
 
+<!-- old hex code for background 643a71 -->
+
 body{
-  background-color: #e1b07e;
+  background-color: #e5d3b3;
 }
 
 h1, h2, h3, h4{
